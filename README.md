@@ -27,11 +27,3 @@ Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, A
 <a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-stats.vercel.app/api?username=arturogonzalezm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="arturogonzalezm's GitHub stats" /></a>
 
 <a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arturogonzalezm&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/arturogonzalezm/trainsimulator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arturogonzalezm&repo=trainsimulator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arturogonzalezm/azure_function" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arturogonzalezm&repo=azure_function&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/arturogonzalezm/challenge-urban-forest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arturogonzalezm&repo=challenge-urban-forest&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/arturogonzalezm/company_extract" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=arturogonzalezm&repo=company_extract&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
