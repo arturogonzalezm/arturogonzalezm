@@ -1,4 +1,4 @@
-Hi 👋 My name is Arturo Gonzalez M.
+Arturo Gonzalez M.
 ===================================
 
 Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, AI/ML Engineer
