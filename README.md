@@ -24,6 +24,8 @@ Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, A
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-stats.vercel.app/api?username=arturogonzalezm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="arturogonzalezm's GitHub stats" /></a>
+<table><tr>
+<td><a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-stats.vercel.app/api?username=arturogonzalezm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="arturogonzalezm's GitHub stats" /></a></td>
+<td><a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arturogonzalezm&stroke=0891b2&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a></td>
+</tr></table>
 
-<a href="http://www.github.com/arturogonzalezm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arturogonzalezm&stroke=0891b2&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
