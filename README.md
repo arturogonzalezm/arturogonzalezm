@@ -6,7 +6,7 @@ Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, A
 
 * 🌍  I'm based in ANZ
 * ✉️  You can contact me at [arturo@arturosolutions.com.au](mailto:arturo@arturosolutions.com.au)
-* 🧠  I'm learning I am learning how to create bindings for TensorFlow, PyTorch, OpenCV, and YOLO for low-level programming languages.
+* 🧠  I am learning how to create bindings for TensorFlow, PyTorch, OpenCV, and YOLO for low-level programming languages.
 
 ### Skills
 
