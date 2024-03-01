@@ -1,6 +1,6 @@
 ![banner](banner_icons_5.png)
 
-Arturo Gonzalez M.
+Hi there. I'm Arturo Gonzalez M.
 ===================================
 
 Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, AI/ML Engineer
