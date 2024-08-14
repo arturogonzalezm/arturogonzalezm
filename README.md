@@ -8,7 +8,7 @@ Software Engineer, Programmer, Data Engineer, DataOps, DevOps, Cloud Engineer, A
 
 * 🌍  I'm based in ANZ
 * ✉️  You can contact me at [arturo@arturosolutions.com.au](mailto:arturo@arturosolutions.com.au)
-* 🧠  I am learning hoe to Implement LLMs using programming languages other than Python and C++
+* 🧠  GenAI
 
 ### Skills
 
